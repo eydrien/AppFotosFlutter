@@ -45,8 +45,8 @@ dependencies:
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/camera_app.git
-cd camera_app
+git https://github.com/eydrien/AppFotosFlutter.git
+cd AppFotosFlutter
 ```
 
 2. **Instalar dependencias**

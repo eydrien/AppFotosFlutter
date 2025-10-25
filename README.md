@@ -122,10 +122,4 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
 5. Abre un Pull Request
 
-## 📞 Soporte
-
-Si tienes alguna pregunta o problema, por favor abre un issue en el repositorio.
-
 ---
-
-⭐ Si este proyecto te fue útil, no olvides darle una estrella en GitHub
